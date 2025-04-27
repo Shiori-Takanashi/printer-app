@@ -1,0 +1,3850 @@
+[
+  {
+    "category": "道具2倍チャンス",
+    "datetime": "2000年11月13日00時39分16秒",
+    "item": "特性パッチ(五連)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1891
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "道具2倍チャンス",
+    "datetime": "2024年11月28日14時40分12秒",
+    "item": "経験アメ(五連)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1391
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "道具2倍チャンス",
+    "datetime": "2056年11月27日00時54分10秒",
+    "item": "特性パッチ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "道具2倍チャンス",
+    "datetime": "2024年04月17日06時01分09秒",
+    "item": "特性パッチ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2016年05月15日14時18分09秒",
+    "item": "地テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2042年08月11日09時13分10秒",
+    "item": "地テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2026年01月07日23時18分06秒",
+    "item": "妖テラピ",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2046年12月03日18時15分08秒",
+    "item": "岩テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 887
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 891
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2002年08月06日07時07分32秒",
+    "item": "岩テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3891
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2015年01月24日07時42分07秒",
+    "item": "悪テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2036年11月23日10時32分14秒",
+    "item": "悪テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2044年05月11日19時56分47秒",
+    "item": "星テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 5762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 5766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2055年09月23日23時33分09秒",
+    "item": "星テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2041年03月11日01時10分10秒",
+    "item": "普テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2028年06月17日04時40分21秒",
+    "item": "普テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2034年09月09日06時36分12秒",
+    "item": "毒テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1391
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2000年02月05日22時01分18秒",
+    "item": "毒テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2052年08月02日23時43分07秒",
+    "item": "水テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2059年12月02日04時27分19秒",
+    "item": "水テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2015年08月14日01時50分14秒",
+    "item": "氷テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2046年01月11日23時54分19秒",
+    "item": "氷テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2054年08月05日03時35分10秒",
+    "item": "炎テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2014年03月20日15時48分03秒",
+    "item": "炎テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2038年04月23日22時25分09秒",
+    "item": "竜テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2001年04月20日00時24分14秒",
+    "item": "竜テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2035年12月27日04時39分23秒",
+    "item": "草テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2014年09月29日13時42分03秒",
+    "item": "草テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2033年02月04日13時04分06秒",
+    "item": "虫テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2039年11月01日14時58分46秒",
+    "item": "虫テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 5637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 5641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2039年06月02日02時15分13秒",
+    "item": "超テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2016年09月20日00時24分15秒",
+    "item": "超テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2019年03月30日06時49分09秒",
+    "item": "鋼テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2057年07月20日19時38分23秒",
+    "item": "鋼テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2017年11月14日18時02分15秒",
+    "item": "闘テラピ",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2011年03月14日16時54分13秒",
+    "item": "電テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2008年03月28日13時42分11秒",
+    "item": "電テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2006年05月23日04時15分06秒",
+    "item": "霊テラピ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2039年06月16日19時27分37秒",
+    "item": "霊テラピ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "テラピース",
+    "datetime": "2049年10月18日21時20分54秒",
+    "item": "飛テラピ",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 6637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 6641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "その他",
+    "datetime": "2030年03月11日16時44分09秒",
+    "item": "ポイントMAX",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "その他",
+    "datetime": "2033年02月08日10時48分09秒",
+    "item": "経験アメ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "その他",
+    "datetime": "2015年09月30日10時12分06秒",
+    "item": "経験アメ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "その他",
+    "datetime": "2049年08月29日09時26分21秒",
+    "item": "経験アメ＆特性パッチ",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "その他",
+    "datetime": "2018年01月24日09時29分28秒",
+    "item": "経験アメ＆金の王冠",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3387
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3391
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "その他",
+    "datetime": "2053年08月11日23時01分11秒",
+    "item": "経験アメ＆飴細工",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール2倍チャンス",
+    "datetime": "2036年02月22日01時28分09秒",
+    "item": "すごい傷薬",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール2倍チャンス",
+    "datetime": "2057年01月10日12時42分21秒",
+    "item": "特性パッチ(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール2倍チャンス",
+    "datetime": "2024年04月16日07時50分07秒",
+    "item": "特性パッチ(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2023年09月24日08時27分16秒",
+    "item": "ウルトラボール",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1891
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2009年06月05日20時17分11秒",
+    "item": "コンペボール",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2049年01月02日01時20分22秒",
+    "item": "サファリボール",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2009年06月05日20時17分10秒",
+    "item": "スピードボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2034年09月01日02時33分38秒",
+    "item": "スピードボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2034年09月01日02時33分39秒",
+    "item": "スピードボール(03)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2054年03月22日09時31分21秒",
+    "item": "ドリームボール",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2042年10月14日05時56分32秒",
+    "item": "ハイパーボール",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3887
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3891
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2046年12月11日02時23分16秒",
+    "item": "フレンドボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1887
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1891
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2046年12月11日02時23分17秒",
+    "item": "フレンドボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2054年03月22日09時31分20秒",
+    "item": "プレミアボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2387
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2391
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2023年05月22日05時36分10秒",
+    "item": "プレミアボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2029年07月24日11時53分10秒",
+    "item": "ヘビーボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2029年07月24日11時53分11秒",
+    "item": "ヘビーボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2044年10月10日11時20分12秒",
+    "item": "マスターボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1387
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1391
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2058年08月14日15時39分17秒",
+    "item": "マスターボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 2012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 2016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2042年10月14日05時56分33秒",
+    "item": "ムーンボール",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4012
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4016
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2045年03月17日10時05分37秒",
+    "item": "ラブラブボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2023年05月22日05時36分11秒",
+    "item": "ラブラブボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1262
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1266
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2037年02月02日15時37分13秒",
+    "item": "ルアーボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 1512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 1516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2057年11月21日04時28分37秒",
+    "item": "ルアーボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2057年11月21日04時28分36秒",
+    "item": "レベルボール(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4387
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4391
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール単品メイン",
+    "datetime": "2045年03月17日10時05分38秒",
+    "item": "レベルボール(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 4637
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 4641
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール各種（チャンス用の1回 -> 即10連）",
+    "datetime": "2056年09月19日19時55分31秒",
+    "item": "オシャボ8種(01)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3762
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3766
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール各種（チャンス用の1回 -> 即10連）",
+    "datetime": "2052年08月07日07時58分29秒",
+    "item": "オシャボ8種(02)",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 3512
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 3516
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  },
+  {
+    "category": "ボール各種（チャンス用の1回 -> 即10連）",
+    "datetime": "2039年03月21日12時14分42秒",
+    "item": "オシャボ6種",
+    "sequence": [
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "B",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "上",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "左",
+        "press": 100,
+        "pause": 5137
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 5141
+      },
+      {
+        "button": "A",
+        "press": 100,
+        "pause": 0
+      }
+    ]
+  }
+]
