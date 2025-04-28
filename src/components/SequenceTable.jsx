@@ -8,6 +8,7 @@ export default function SequenceTable({ sequence }) {
     return (
         <Box bg="green.50" p={2} rounded="xl">
             <Table variant="simple" size="sm" borderCollapse="collapse">
+
                 <Tbody>
                     <Tr>
                         {sequence.slice(0, pairCount).map((seq, idx) => (

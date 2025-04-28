@@ -11,10 +11,6 @@ export default function CategoryTable({ items }) {
 
     return (
         <Table variant="simple" size="sm" bg="white" border="1px" borderColor="gray.200">
-            <colgroup>
-                <col width="50%" />
-                <col width="50%" />
-            </colgroup>
             <Thead bg="cyan.300">
                 <Tr>
                     <Th textAlign="center" color="white">時刻</Th>
