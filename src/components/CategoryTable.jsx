@@ -1,6 +1,8 @@
+import React from 'react';
 import { Table, Thead, Tbody, Tr, Th, Td } from '@chakra-ui/react';
+import SequenceTable from './SequenceTable';
 
-export default function CategoryTable({ items }) {
+export default function CategoryTable({ items, openSet, onRowClick }) {
     return (
         <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400">
             <colgroup>
@@ -36,27 +38,42 @@ export default function CategoryTable({ items }) {
 
             <Tbody>
                 {items.map((item, idx) => (
-                    <Tr key={idx} bg="cyan.50" _hover={{ bg: "cyan.100" }}>
-                        <Td
-                            borderWidth="1px"
-                            borderStyle="solid"
-                            borderColor="blackAlpha.400"
-                            borderRightWidth="1px"
-                            borderRightStyle="solid"
-                            borderRightColor="blackAlpha.400"
-                            textAlign="center"
+                    <React.Fragment key={idx}>
+                        <Tr
+                            bg="cyan.50"
+                            _hover={{ bg: "cyan.100", cursor: 'pointer' }}
+                            onClick={() => onRowClick?.(idx)}
                         >
-                            {item.datetime}
-                        </Td>
-                        <Td
-                            borderWidth="1px"
-                            borderStyle="solid"
-                            borderColor="blackAlpha.400"
-                            textAlign="center"
-                        >
-                            {item.item}
-                        </Td>
-                    </Tr>
+                            <Td
+                                borderWidth="1px"
+                                borderStyle="solid"
+                                borderColor="blackAlpha.400"
+                                borderRightWidth="1px"
+                                borderRightStyle="solid"
+                                borderRightColor="blackAlpha.400"
+                                textAlign="center"
+                            >
+                                {item.datetime}
+                            </Td>
+                            <Td
+                                borderWidth="1px"
+                                borderStyle="solid"
+                                borderColor="blackAlpha.400"
+                                textAlign="center"
+                            >
+                                {item.item}
+                            </Td>
+                        </Tr>
+
+                        {/* openSetに含まれている行だけ差し込む */}
+                        {openSet?.has(idx) && (
+                            <Tr>
+                                <Td colSpan={2} p={0}>
+                                    <SequenceTable sequence={item.sequence} />
+                                </Td>
+                            </Tr>
+                        )}
+                    </React.Fragment>
                 ))}
             </Tbody>
         </Table>
