@@ -6,13 +6,13 @@ export default function CategoryBlock({ category, items }) {
     const [isOpen, setIsOpen] = useState(true);
     const toggleHandler = () => setIsOpen(prev => !prev);
 
-    /* ★ 変更: openIdx → openSet (Set<number>)  */
+    /* openIdx → openSet (Set<number>)  */
     const [openSet, setOpenSet] = useState(new Set());
 
     const handleRowClick = (idx) => {
         setOpenSet(prev => {
             const next = new Set(prev);
-            next.has(idx) ? next.delete(idx) : next.add(idx);  // ★ トグル
+            next.has(idx) ? next.delete(idx) : next.add(idx);
             return next;
         });
     };
@@ -47,7 +47,7 @@ export default function CategoryBlock({ category, items }) {
             {isOpen && (
                 <CategoryTable
                     items={items}
-                    openSet={openSet}          /* ★ 渡す */
+                    openSet={openSet}
                     onRowClick={handleRowClick}
                 />
             )}
