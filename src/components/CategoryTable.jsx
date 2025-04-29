@@ -1,43 +1,62 @@
-import { useState } from 'react';
-import { Table, Thead, Tbody, Tr, Th, Td, Box } from '@chakra-ui/react';
-import SequenceTable from './SequenceTable';
+import { Table, Thead, Tbody, Tr, Th, Td } from '@chakra-ui/react';
 
 export default function CategoryTable({ items }) {
-    const [selectedIndex, setSelectedIndex] = useState(null);
-
-    const handleRowClick = (index) => {
-        setSelectedIndex((prev) => (prev === index ? null : index));
-    };
-
     return (
-        <Table variant="simple" size="sm" bg="white" border="1px" borderColor="gray.200">
-            <Thead bg="cyan.300">
+        <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400">
+            <colgroup>
+                <col width="70%" />
+                <col width="30%" />
+            </colgroup>
+
+            <Thead bg="blue.100">
                 <Tr>
-                    <Th textAlign="center" color="white">時刻</Th>
-                    <Th textAlign="center" color="white">アイテム</Th>
+                    <Th
+                        color="black"
+                        borderWidth="1px"
+                        borderStyle="solid"
+                        borderColor="blackAlpha.400"
+                        borderRightWidth="1px"
+                        borderRightStyle="solid"
+                        borderRightColor="blackAlpha.400"
+                        textAlign="center"
+                    >
+                        時刻
+                    </Th>
+                    <Th
+                        color="black"
+                        borderWidth="1px"
+                        borderStyle="solid"
+                        borderColor="blackAlpha.400"
+                        textAlign="center"
+                    >
+                        アイテム
+                    </Th>
                 </Tr>
             </Thead>
+
             <Tbody>
                 {items.map((item, idx) => (
-                    <>
-                        <Tr
-                            key={idx}
-                            onClick={() => handleRowClick(idx)}
-                            cursor="pointer"
-                            bg={selectedIndex === idx ? "blue.100" : "white"}
-                            _hover={{ bg: "cyan.100" }}
+                    <Tr key={idx} bg="cyan.50" _hover={{ bg: "cyan.100" }}>
+                        <Td
+                            borderWidth="1px"
+                            borderStyle="solid"
+                            borderColor="blackAlpha.400"
+                            borderRightWidth="1px"
+                            borderRightStyle="solid"
+                            borderRightColor="blackAlpha.400"
+                            textAlign="center"
                         >
-                            <Td textAlign="center">{item.datetime}</Td>
-                            <Td textAlign="center">{item.item}</Td>
-                        </Tr>
-                        {selectedIndex === idx && (
-                            <Tr>
-                                <Td colSpan={2} p={0}>
-                                    <SequenceTable sequence={item.sequence} />
-                                </Td>
-                            </Tr>
-                        )}
-                    </>
+                            {item.datetime}
+                        </Td>
+                        <Td
+                            borderWidth="1px"
+                            borderStyle="solid"
+                            borderColor="blackAlpha.400"
+                            textAlign="center"
+                        >
+                            {item.item}
+                        </Td>
+                    </Tr>
                 ))}
             </Tbody>
         </Table>
