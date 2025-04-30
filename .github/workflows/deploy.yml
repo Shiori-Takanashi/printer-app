@@ -35,3 +35,5 @@ jobs:
     - name: Reload nginx
       run: |
         ssh -o StrictHostKeyChecking=no azureuser@${{ vars.VM_HOST }} "sudo systemctl reload nginx"
+
+        # trigger reload
