@@ -29,7 +29,8 @@ jobs:
 
     - name: Deploy via rsync
       run: |
-        rsync -az --delete ./dist/ azureuser@${{ vars.VM_HOST }}:/var/www/printer/
+        rsync -az --delete -e "ssh -o StrictHostKeyChecking=no" ./dist/ azureuser@${{ vars.VM_HOST }}:/var/www/printer/
+
 
     - name: Reload nginx
       run: |
