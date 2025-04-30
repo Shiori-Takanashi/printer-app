@@ -6,7 +6,7 @@ export default function Home() {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        fetch('/data_for_display.json')
+        fetch('data/data_for_display.json')
             .then((res) => res.json())
             .then(setData)
             .catch(console.error);
