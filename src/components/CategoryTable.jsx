@@ -4,13 +4,13 @@ import SequenceTable from './SequenceTable';
 
 export default function CategoryTable({ items, openSet, onRowClick }) {
     return (
-        <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400">
+        <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400" display="box" boxShadow="md">
             <colgroup>
-                <col width="70%" />
-                <col width="30%" />
+                <col width="60%" />
+                <col width="40%" />
             </colgroup>
 
-            <Thead bg="blue.100">
+            <Thead bg="blue.100" userSelect="none">
                 <Tr>
                     <Th
                         color="black"
@@ -36,7 +36,7 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                 </Tr>
             </Thead>
 
-            <Tbody>
+            <Tbody userSelect="none">
                 {items.map((item, idx) => (
                     <React.Fragment key={idx}>
                         <Tr
@@ -52,6 +52,8 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                                 borderRightStyle="solid"
                                 borderRightColor="blackAlpha.400"
                                 textAlign="center"
+                                fontSize="sm"
+                                px={0}
                             >
                                 {item.datetime}
                             </Td>
@@ -60,6 +62,8 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                                 borderStyle="solid"
                                 borderColor="blackAlpha.400"
                                 textAlign="center"
+                                fontSize="sm"
+                                px={0}
                             >
                                 {item.item}
                             </Td>

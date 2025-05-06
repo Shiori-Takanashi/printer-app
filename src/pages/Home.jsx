@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Container, Heading, Box } from '@chakra-ui/react';
+import { Box, Container, Flex } from '@chakra-ui/react';
 import CategoryBlock from '../components/CategoryBlock';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 export default function Home() {
     const [data, setData] = useState([]);
@@ -18,27 +20,19 @@ export default function Home() {
     }, {});
 
     return (
-        <Box bg="gray.100" minH="100vh" pt={12} pb={12}>
-            <Container maxW="container.md">
-                <Heading
-                    as="h1"
-                    size="lg"
-                    textAlign="center"
-                    mt={8}
-                    p={4}
-                    rounded="md"
-                    color="white"
-                    shadow="md"
-                    maxW="600px"
-                    mx="auto"
-                    bgGradient="linear(to-r, rgb(141,185,235), #6dd5ed)"
-                >
-                    乱数表
-                </Heading>
-                {Object.entries(groupedData).map(([category, items]) => (
-                    <CategoryBlock key={category} category={category} items={items} />
-                ))}
-            </Container>
-        </Box>
+        <Flex direction="column" minH="100vh" bg="gray.50">
+            <Header />
+            {/* メインコンテンツ部分を flexGrow で伸縮させる */}
+            <Box as="main" flex="1" pt={1} pb={4}>
+                <Container maxW="container.md">
+                    {Object.entries(groupedData).map(([category, items]) => (
+                        <CategoryBlock key={category} category={category} items={items} />
+                    ))}
+                </Container>
+            </Box>
+
+            {/* フッターは常にこの位置に */}
+            <Footer />
+        </Flex >
     );
 }

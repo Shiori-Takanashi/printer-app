@@ -4,11 +4,8 @@ import CategoryTable from './CategoryTable';
 
 export default function CategoryBlock({ category, items }) {
     const [isOpen, setIsOpen] = useState(true);
-    const toggleHandler = () => setIsOpen(prev => !prev);
 
-    /* openIdx → openSet (Set<number>)  */
     const [openSet, setOpenSet] = useState(new Set());
-
     const handleRowClick = (idx) => {
         setOpenSet(prev => {
             const next = new Set(prev);
@@ -18,29 +15,28 @@ export default function CategoryBlock({ category, items }) {
     };
 
     return (
-        <Box borderTop="1px" borderColor="gray.400" mt={8} pt={8}>
+        <Box mt={4} pt={4} userSelect="none">
             <Box textAlign="center" mb={4} position="relative">
                 <Heading
                     as="h2"
                     size="md"
-                    textAlign="center"
-                    cursor="pointer"
-                    onClick={toggleHandler}
                     display="inline-block"
                     position="relative"
                     userSelect="none"
                 >
-                    <Box
-                        as="span"
-                        position="absolute"
-                        left="-2rem"
-                        top="50%"
-                        transform="translateY(-50%)"
-                        fontSize="md"
-                    >
-                        {isOpen ? "▼" : "▶"}
+                    <Box display="flex" flexDirection="column" alignItems="center">
+                        {/* カテゴリ名 */}
+                        <Box as="span" fontSize="lg" fontWeight="bold">
+                            {category}
+                        </Box>
+
+                        {/* カテゴリが「ボール各種」のときだけ表示 */}
+                        {category === 'ボール各種' && (
+                            <Box as="span" mt={2} fontSize="sm" color="gray.600">
+                                (1連から即座に10連)
+                            </Box>
+                        )}
                     </Box>
-                    {category}
                 </Heading>
             </Box>
 
