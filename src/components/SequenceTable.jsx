@@ -9,10 +9,10 @@ export default function SequenceTable({ sequence }) {
 
     return (
         <Box bg="gray.100" p={2} borderWidth="1px" borderColor="gray.200">
-            <Table size="xs" borderCollapse="collapse">
+            <Table size="xs" borderCollapse="collapse" marginBottom={1}>
                 <Tbody>
                     <Tr>
-                        {sequence.slice(0, pairCount).map((seq, idx) => (
+                        {sequence.slice(0, rowCount_top + 1).map((seq, idx) => (
                             <React.Fragment key={`header-${idx}`}>
                                 <Th textAlign="center" textColor="red.500" bg="gray.50" border="1px" borderColor="gray.200" fontSize="smaller">
                                     {seq.button}
@@ -27,7 +27,7 @@ export default function SequenceTable({ sequence }) {
                         </Th>
                     </Tr>
                     <Tr>
-                        {sequence.slice(0, pairCount).map((seq, idx) => (
+                        {sequence.slice(0, rowCount_top + 1).map((seq, idx) => (
                             <React.Fragment key={`data-${idx}`}>
                                 <Td textAlign="center" textColor="blue.500" bg="gray.50" border="1px" borderColor="gray.200" fontSize="smaller">
                                     {seq.press}
@@ -46,7 +46,7 @@ export default function SequenceTable({ sequence }) {
             <Table size="xs" borderCollapse="collapse">
                 <Tbody>
                     <Tr>
-                        {sequence.slice(0, pairCount).map((seq, idx) => (
+                        {sequence.slice(rowCount_top, rowCount_bottom + 1).map((seq, idx) => (
                             <React.Fragment key={`header-${idx}`}>
                                 <Th textAlign="center" textColor="red.500" bg="gray.50" border="1px" borderColor="gray.200" fontSize="smaller">
                                     {seq.button}
@@ -61,7 +61,7 @@ export default function SequenceTable({ sequence }) {
                         </Th>
                     </Tr>
                     <Tr>
-                        {sequence.slice(0, pairCount).map((seq, idx) => (
+                        {sequence.slice(rowCount_top, rowCount_bottom + 1).map((seq, idx) => (
                             <React.Fragment key={`data-${idx}`}>
                                 <Td textAlign="center" textColor="blue.500" bg="gray.50" border="1px" borderColor="gray.200" fontSize="smaller">
                                     {seq.press}
