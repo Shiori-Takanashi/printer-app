@@ -25,7 +25,7 @@ export default function Home() {
             {/* メインコンテンツ部分を flexGrow で伸縮させる */}
             <Box as="main" flex="1" pt={1} pb={4}>
                 <Container
-                    maxW={{ base: '100%', md: 'container.md' }}
+                    maxW={{ base: '80%', md: 'container.md' }}
                     px={{ base: 2, md: 4 }}
                 >
                     {Object.entries(groupedData).map(([category, items]) => (

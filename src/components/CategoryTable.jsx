@@ -4,7 +4,7 @@ import SequenceTable from './SequenceTable';
 
 export default function CategoryTable({ items, openSet, onRowClick }) {
     return (
-        <Box overflowX="auto" w="100%">
+        <Box w="100%">
             <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400" boxShadow="md">
                 <colgroup>
                     <col width="50%" />
