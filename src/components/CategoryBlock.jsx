@@ -37,31 +37,32 @@ export default function CategoryBlock({ category, items }) {
                         )}
                         {category === 'テラピース' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                （1種類が大量。）<br />
-                                （道具2倍チャンスのときに回すこと）
+                                1種類が大量。<br />
+                                道具2倍チャンスのときに回すこと。
                             </Box>
                         )}
                         {category === '道具2倍チャンス' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                （5連で、道具2倍チャンス & パッチor飴）<br />
-                                （回し続けても良いし、道具2倍チャンスを出すために使っても良い）
+                                5連で、道具2倍チャンス & パッチor飴。<br />
+                                回し続けても良いし、<br />
+                                道具2倍チャンスを出すために使っても良い<br />
                             </Box>
                         )}
                         {category === 'その他' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                （道具2倍チャンスのときに回すこと）<br />
-                                （あまり使わないと思う）
+                                道具2倍チャンスのときに回すこと。<br />
+                                あまり使わないと思う。
                             </Box>
                         )}
                         {category === 'ボール単品メイン' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                （ボール2倍チャンスのときに回すこと）
+                                ボール2倍チャンスのときに回すこと。
                             </Box>
                         )}
                         {category === 'ボール2倍チャンス' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                （すごい傷薬のとき、ミスりにくいかも）<br />
-                                （どうせならパッチ欲しいけど）
+                                すごい傷薬のとき、ミスりにくいかも。<br />
+                                どうせならパッチがおすすめ。
                             </Box>
                         )}
                     </Box>

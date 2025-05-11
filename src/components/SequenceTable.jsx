@@ -100,15 +100,14 @@ export default function SequenceTable({ sequence }) {
 
     return (
         <Box
-            overflowX="auto"
             w="100%"
             bg="gray.100"
-            p={2}
+            p="1"
             borderBottomStyle="solid"
             borderBottomWidth="1px"
             borderBottomColor="blue.200"
         >
-            <Table size="xs" minW="400px" borderCollapse="collapse" marginBottom={2}>
+            <Table size="xs" minW="280px" borderCollapse="collapse" my={2}>
                 <Tbody>
                     {renderHeaderRow(0, rowCount_top)}
                     {renderDataRow(0, rowCount_top)}
