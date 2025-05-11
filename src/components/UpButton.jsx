@@ -8,14 +8,16 @@ function scrollToTop() {
 export default function UpButton() {
     return (
         <IconButton
-            icon={<FaArrowUp />}
+            icon={<FaArrowUp size={28} />}
             onClick={scrollToTop}
             position="fixed"
-            bottom="4"
-            right="4"
+            boxSize="60px"
+            bottom="12"
+            right="16"
             colorScheme="teal"
             boxShadow="md"
             aria-label="トップへ戻る"
+            zIndex={999}
         />
     );
 }

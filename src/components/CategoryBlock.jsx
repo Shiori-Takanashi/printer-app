@@ -43,9 +43,8 @@ export default function CategoryBlock({ category, items }) {
                         )}
                         {category === '道具2倍チャンス' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                5連からの道具2倍チャンス & パッチor飴。<br />
+                                5連でチャンスとオマケ。<br />
                                 回し続けても良いし、<br />
-                                道具2倍チャンスを出すために使っても良い<br />
                             </Box>
                         )}
                         {category === 'その他' && (
