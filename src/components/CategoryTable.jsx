@@ -49,7 +49,7 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                                     borderRightStyle="solid"
                                     borderRightColor="blue.100"
                                     textAlign="center"
-                                    fontSize="md"
+                                    fontSize="sm"
                                     px={0}
                                     bg={idx % 2 === 0 ? "blue.50" : "whiteAlpha.800"}
                                     _groupHover={{ bg: "teal.100", cursor: "pointer" }}
@@ -61,7 +61,7 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                                     borderStyle="solid"
                                     borderColor="blue.200"
                                     textAlign="center"
-                                    fontSize="md"
+                                    fontSize="sm"
                                     px={0}
                                     bg={idx % 2 === 0 ? "blue.50" : "whiteAlpha.800"}
                                     _groupHover={{ bg: "teal.100", cursor: "pointer" }}
