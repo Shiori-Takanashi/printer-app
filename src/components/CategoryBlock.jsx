@@ -25,12 +25,9 @@ export default function CategoryBlock({ category, items }) {
                     userSelect="none"
                 >
                     <Box display="flex" flexDirection="column" alignItems="center">
-                        {/* カテゴリ名 */}
                         <Box as="span" fontSize="lg" fontWeight="bold">
                             {category}
                         </Box>
-
-                        {/* カテゴリが「ボール各種」のときだけ表示 */}
                         {category === 'ボール各種' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
                                 (1連から即座に10連)

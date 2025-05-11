@@ -15,7 +15,7 @@ export default function SequenceTable({ sequence }) {
                         textColor="red.500"
                         bg="gray.50"
                         border="1px"
-                        borderColor="gray.200"
+                        borderColor="blue.900"
                         fontSize="smaller"
                         userSelect="none"
                     >

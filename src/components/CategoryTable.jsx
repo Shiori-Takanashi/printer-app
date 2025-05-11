@@ -6,20 +6,17 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
     return (
         <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400" display="box" boxShadow="md">
             <colgroup>
-                <col width="60%" />
-                <col width="40%" />
+                <col width="50%" />
+                <col width="50%" />
             </colgroup>
 
-            <Thead bg="blue.100" userSelect="none">
+            <Thead bg="blue.200" userSelect="none">
                 <Tr>
                     <Th
                         color="black"
                         borderWidth="1px"
                         borderStyle="solid"
-                        borderColor="blackAlpha.400"
-                        borderRightWidth="1px"
-                        borderRightStyle="solid"
-                        borderRightColor="blackAlpha.400"
+                        borderColor="blue.100"
                         textAlign="center"
                     >
                         時刻
@@ -28,7 +25,7 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                         color="black"
                         borderWidth="1px"
                         borderStyle="solid"
-                        borderColor="blackAlpha.400"
+                        borderColor="blue.100"
                         textAlign="center"
                     >
                         アイテム
@@ -40,20 +37,21 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                 {items.map((item, idx) => (
                     <React.Fragment key={idx}>
                         <Tr
-                            bg="cyan.50"
+                            bg="blue.50"
                             _hover={{ bg: "cyan.100", cursor: 'pointer' }}
                             onClick={() => onRowClick?.(idx)}
                         >
                             <Td
                                 borderWidth="1px"
                                 borderStyle="solid"
-                                borderColor="blackAlpha.400"
+                                borderColor="blue.200"
                                 borderRightWidth="1px"
                                 borderRightStyle="solid"
                                 borderRightColor="blackAlpha.400"
                                 textAlign="center"
-                                fontSize="sm"
+                                fontSize="md"
                                 px={0}
+                                bg={idx % 2 === 0 ? "blue.50" : "white"}
                             >
                                 {item.datetime}
                             </Td>
@@ -62,8 +60,9 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                                 borderStyle="solid"
                                 borderColor="blackAlpha.400"
                                 textAlign="center"
-                                fontSize="sm"
+                                fontSize="md"
                                 px={0}
+                                bg={idx % 2 === 0 ? "blue.50" : "white"}
                             >
                                 {item.item}
                             </Td>
@@ -80,6 +79,6 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                     </React.Fragment>
                 ))}
             </Tbody>
-        </Table>
+        </Table >
     );
 }
