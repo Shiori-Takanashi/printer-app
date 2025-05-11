@@ -2,7 +2,14 @@ import React from 'react';
 import { Box, Table, Thead, Tbody, Tr, Th, Td } from '@chakra-ui/react';
 import SequenceTable from './SequenceTable';
 
+
+
 export default function CategoryTable({ items, openSet, onRowClick }) {
+    function deleteMinutes(datetimeStr) {
+        const displayTime = datetimeStr.split("分")[0] + "分";
+        return displayTime
+    }
+
     return (
         <Box w="100%">
             <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400" boxShadow="md">
@@ -54,7 +61,7 @@ export default function CategoryTable({ items, openSet, onRowClick }) {
                                     bg={idx % 2 === 0 ? "blue.50" : "whiteAlpha.800"}
                                     _groupHover={{ bg: "teal.100", cursor: "pointer" }}
                                 >
-                                    {item.datetime}
+                                    {deleteMinutes(item.datetime)}
                                 </Td>
                                 <Td
                                     borderWidth="1px"

@@ -3,6 +3,8 @@ import { Box, Container, Flex } from '@chakra-ui/react';
 import CategoryBlock from '../components/CategoryBlock';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import UpButton from '../components/UpButton';
+
 
 export default function Home() {
     const [data, setData] = useState([]);
@@ -33,7 +35,7 @@ export default function Home() {
                     ))}
                 </Container>
             </Box>
-
+            <UpButton />
             {/* フッターは常にこの位置に */}
             <Footer />
         </Flex >

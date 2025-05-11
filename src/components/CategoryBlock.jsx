@@ -31,8 +31,8 @@ export default function CategoryBlock({ category, items }) {
                         </Box>
                         {category === 'ボール各種' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                （1連回すとボール2倍チャンスが来る）<br />
-                                （戻らずに10連で回すだけ）
+                                1連回すとボール2倍チャンスが来る<br />
+                                戻らずに10連で回すだけ
                             </Box>
                         )}
                         {category === 'テラピース' && (
@@ -43,7 +43,7 @@ export default function CategoryBlock({ category, items }) {
                         )}
                         {category === '道具2倍チャンス' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                5連で、道具2倍チャンス & パッチor飴。<br />
+                                5連からの道具2倍チャンス & パッチor飴。<br />
                                 回し続けても良いし、<br />
                                 道具2倍チャンスを出すために使っても良い<br />
                             </Box>
