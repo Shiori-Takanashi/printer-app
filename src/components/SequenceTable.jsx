@@ -14,8 +14,9 @@ export default function SequenceTable({ sequence }) {
                         textAlign="center"
                         textColor="red.500"
                         bg="gray.50"
-                        border="1px"
-                        borderColor="blue.900"
+                        borderWidth="1px"
+                        borderColor="blackAlpha.500"
+                        borderStyle="solid"
                         fontSize="smaller"
                         userSelect="none"
                     >
@@ -23,10 +24,12 @@ export default function SequenceTable({ sequence }) {
                     </Th>
                     <Th
                         textAlign="center"
-                        textColor="gray.500"
-                        bg="gray.100"
-                        border="1px"
-                        borderColor="gray.200"
+                        textColor="gray.700"
+                        fontWeight="normal"
+                        bg="gray.50"
+                        borderWidth="1px"
+                        borderColor="blackAlpha.500"
+                        borderStyle="solid"
                         fontSize="smaller"
                         userSelect="none"
                     >
@@ -37,8 +40,10 @@ export default function SequenceTable({ sequence }) {
             <Th
                 textAlign="center"
                 textColor="red.500"
-                border="1px"
-                borderColor="gray.200"
+                bg="gray.50"
+                borderWidth="1px"
+                borderColor="blackAlpha.500"
+                borderStyle="solid"
                 fontSize="smaller"
                 userSelect="none"
             >
@@ -53,10 +58,11 @@ export default function SequenceTable({ sequence }) {
                 <React.Fragment key={`data-${start + idx}`}>
                     <Td
                         textAlign="center"
-                        textColor="blue.500"
+                        textColor="gray.700"
                         bg="gray.50"
-                        border="1px"
-                        borderColor="gray.200"
+                        borderWidth="1px"
+                        borderColor="blackAlpha.500"
+                        borderStyle="solid"
                         fontSize="smaller"
                         userSelect="none"
                     >
@@ -64,10 +70,12 @@ export default function SequenceTable({ sequence }) {
                     </Td>
                     <Td
                         textAlign="center"
-                        textColor="green.500"
-                        bg="gray.100"
-                        border="1px"
-                        borderColor="gray.200"
+                        textColor="red.500"
+                        fontWeight="bold"
+                        bg="gray.50"
+                        borderWidth="1px"
+                        borderColor="blackAlpha.500"
+                        borderStyle="solid"
                         fontSize="smaller"
                         userSelect="none"
                     >
@@ -77,9 +85,11 @@ export default function SequenceTable({ sequence }) {
             ))}
             <Td
                 textAlign="center"
-                textColor="blue.500"
-                border="1px"
-                borderColor="gray.200"
+                textColor="gray.700"
+                bg="gray.50"
+                borderWidth="1px"
+                borderColor="blackAlpha.500"
+                borderStyle="solid"
                 fontSize="smaller"
                 userSelect="none"
             >
@@ -89,8 +99,16 @@ export default function SequenceTable({ sequence }) {
     );
 
     return (
-        <Box bg="gray.100" p={2} borderWidth="1px" borderColor="gray.200">
-            <Table size="xs" borderCollapse="collapse" marginBottom={2}>
+        <Box
+            overflowX="auto"
+            w="100%"
+            bg="gray.100"
+            p={2}
+            borderBottomStyle="solid"
+            borderBottomWidth="1px"
+            borderBottomColor="blue.200"
+        >
+            <Table size="xs" minW="400px" borderCollapse="collapse" marginBottom={2}>
                 <Tbody>
                     {renderHeaderRow(0, rowCount_top)}
                     {renderDataRow(0, rowCount_top)}

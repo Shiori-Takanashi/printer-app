@@ -12,11 +12,11 @@ export default function Footer() {
             userSelect="none"
         >
             <Flex
-                maxW="container.md"
+                maxW={{ base: '100%', md: 'container.md' }}
                 mx="auto"
                 align="center"
                 justify="center"
-                px={6}
+                px={{ base: 4, md: 6 }}
                 color="gray.200"
                 fontSize="sm"
             >

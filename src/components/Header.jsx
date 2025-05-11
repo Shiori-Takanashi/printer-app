@@ -6,12 +6,11 @@ export default function Header() {
         <Box
             as="header"
             bgGradient="linear(to-r, rgb(141,185,235), #6dd5ed)"
-            px={12}
-            py={3}
-            mx="auto"
-            mt={6}
+            px={{ base: 4, md: 12 }}
+            py={{ base: 2, md: 3 }}
+            mx="auto" mt={6}
             boxShadow="md"
-            maxW="300px"
+            maxW={{ base: '100%', sm: 'container.sm', md: '300px' }}
             borderRadius="md"
             userSelect="none"
         >

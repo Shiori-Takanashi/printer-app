@@ -1,84 +1,87 @@
 import React from 'react';
-import { Table, Thead, Tbody, Tr, Th, Td } from '@chakra-ui/react';
+import { Box, Table, Thead, Tbody, Tr, Th, Td } from '@chakra-ui/react';
 import SequenceTable from './SequenceTable';
 
 export default function CategoryTable({ items, openSet, onRowClick }) {
     return (
-        <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400" display="box" boxShadow="md">
-            <colgroup>
-                <col width="50%" />
-                <col width="50%" />
-            </colgroup>
+        <Box overflowX="auto" w="100%">
+            <Table size="sm" borderWidth="1px" borderStyle="solid" borderColor="blackAlpha.400" boxShadow="md">
+                <colgroup>
+                    <col width="50%" />
+                    <col width="50%" />
+                </colgroup>
 
-            <Thead bg="blue.200" userSelect="none">
-                <Tr>
-                    <Th
-                        color="black"
-                        borderWidth="1px"
-                        borderStyle="solid"
-                        borderColor="blue.100"
-                        textAlign="center"
-                    >
-                        時刻
-                    </Th>
-                    <Th
-                        color="black"
-                        borderWidth="1px"
-                        borderStyle="solid"
-                        borderColor="blue.100"
-                        textAlign="center"
-                    >
-                        アイテム
-                    </Th>
-                </Tr>
-            </Thead>
-
-            <Tbody userSelect="none">
-                {items.map((item, idx) => (
-                    <React.Fragment key={idx}>
-                        <Tr
-                            bg="blue.50"
-                            _hover={{ bg: "cyan.100", cursor: 'pointer' }}
-                            onClick={() => onRowClick?.(idx)}
+                <Thead bg="blue.200" userSelect="none">
+                    <Tr>
+                        <Th
+                            color="black"
+                            borderWidth="1px"
+                            borderStyle="solid"
+                            borderColor="blue.100"
+                            textAlign="center"
                         >
-                            <Td
-                                borderWidth="1px"
-                                borderStyle="solid"
-                                borderColor="blue.200"
-                                borderRightWidth="1px"
-                                borderRightStyle="solid"
-                                borderRightColor="blackAlpha.400"
-                                textAlign="center"
-                                fontSize="md"
-                                px={0}
-                                bg={idx % 2 === 0 ? "blue.50" : "white"}
-                            >
-                                {item.datetime}
-                            </Td>
-                            <Td
-                                borderWidth="1px"
-                                borderStyle="solid"
-                                borderColor="blackAlpha.400"
-                                textAlign="center"
-                                fontSize="md"
-                                px={0}
-                                bg={idx % 2 === 0 ? "blue.50" : "white"}
-                            >
-                                {item.item}
-                            </Td>
-                        </Tr>
+                            時刻
+                        </Th>
+                        <Th
+                            color="black"
+                            borderWidth="1px"
+                            borderStyle="solid"
+                            borderColor="blue.100"
+                            textAlign="center"
+                        >
+                            アイテム
+                        </Th>
+                    </Tr>
+                </Thead>
 
-                        {/* openSetに含まれている行だけ差し込む */}
-                        {openSet?.has(idx) && (
-                            <Tr>
-                                <Td colSpan={2} p={0}>
-                                    <SequenceTable sequence={item.sequence} />
+                <Tbody userSelect="none">
+                    {items.map((item, idx) => (
+                        <React.Fragment key={idx}>
+                            <Tr
+                                role="group"
+                                onClick={() => onRowClick?.(idx)}
+                            >
+                                <Td
+                                    borderWidth="1px"
+                                    borderStyle="solid"
+                                    borderColor="blue.200"
+                                    borderRightWidth="1px"
+                                    borderRightStyle="solid"
+                                    borderRightColor="blue.100"
+                                    textAlign="center"
+                                    fontSize="md"
+                                    px={0}
+                                    bg={idx % 2 === 0 ? "blue.50" : "whiteAlpha.800"}
+                                    _groupHover={{ bg: "teal.100", cursor: "pointer" }}
+                                >
+                                    {item.datetime}
+                                </Td>
+                                <Td
+                                    borderWidth="1px"
+                                    borderStyle="solid"
+                                    borderColor="blue.200"
+                                    textAlign="center"
+                                    fontSize="md"
+                                    px={0}
+                                    bg={idx % 2 === 0 ? "blue.50" : "whiteAlpha.800"}
+                                    _groupHover={{ bg: "teal.100", cursor: "pointer" }}
+                                >
+                                    {item.item}
                                 </Td>
                             </Tr>
-                        )}
-                    </React.Fragment>
-                ))}
-            </Tbody>
-        </Table >
+
+                            {/* openSetに含まれている行だけ差し込む */}
+                            {openSet?.has(idx) && (
+                                <Tr>
+                                    <Td colSpan={2} p={0}>
+                                        <SequenceTable sequence={item.sequence} />
+                                    </Td>
+                                </Tr>
+                            )}
+                        </React.Fragment>
+                    ))}
+                </Tbody>
+            </Table >
+        </Box>
     );
 }
