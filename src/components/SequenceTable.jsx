@@ -17,7 +17,7 @@ export default function SequenceTable({ sequence }) {
                         borderWidth="1px"
                         borderColor="blackAlpha.500"
                         borderStyle="solid"
-                        fontSize="smaller"
+                        fontSize="xs"
                         userSelect="none"
                     >
                         {seq.button}
@@ -30,7 +30,7 @@ export default function SequenceTable({ sequence }) {
                         borderWidth="1px"
                         borderColor="blackAlpha.500"
                         borderStyle="solid"
-                        fontSize="smaller"
+                        fontSize="xs"
                         userSelect="none"
                     >
                         待機
@@ -44,7 +44,7 @@ export default function SequenceTable({ sequence }) {
                 borderWidth="1px"
                 borderColor="blackAlpha.500"
                 borderStyle="solid"
-                fontSize="smaller"
+                fontSize="xs"
                 userSelect="none"
             >
                 {sequence[len - 1].button}
@@ -63,7 +63,7 @@ export default function SequenceTable({ sequence }) {
                         borderWidth="1px"
                         borderColor="blackAlpha.500"
                         borderStyle="solid"
-                        fontSize="smaller"
+                        fontSize="xs"
                         userSelect="none"
                     >
                         {seq.press}
@@ -76,7 +76,7 @@ export default function SequenceTable({ sequence }) {
                         borderWidth="1px"
                         borderColor="blackAlpha.500"
                         borderStyle="solid"
-                        fontSize="smaller"
+                        fontSize="xs"
                         userSelect="none"
                     >
                         {seq.pause}
@@ -90,7 +90,7 @@ export default function SequenceTable({ sequence }) {
                 borderWidth="1px"
                 borderColor="blackAlpha.500"
                 borderStyle="solid"
-                fontSize="smaller"
+                fontSize="xs"
                 userSelect="none"
             >
                 {sequence[len - 1].press}
