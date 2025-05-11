@@ -44,7 +44,7 @@ export default function CategoryBlock({ category, items }) {
                         {category === '道具2倍チャンス' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
                                 5連でチャンスとオマケ。<br />
-                                回し続けると効率が良い。<br />
+                                回し続けると効率が良い。
                             </Box>
                         )}
                         {category === 'その他' && (
@@ -60,7 +60,8 @@ export default function CategoryBlock({ category, items }) {
                         )}
                         {category === 'ボール2倍チャンス' && (
                             <Box as="span" mt={2} fontSize="sm" color="gray.600">
-                                すごい傷薬のとき、ミスりにくいかも。<br />
+                                すごい傷薬のとき、<br />
+                                ミスりにくいかも。<br />
                                 どうせならパッチがおすすめ。
                             </Box>
                         )}

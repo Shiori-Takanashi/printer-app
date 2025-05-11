@@ -6,7 +6,7 @@ export default function Header() {
         <Box
             as="header"
             bgGradient="linear(to-r, rgb(141,185,235), #6dd5ed)"
-            px={{ base: 4, md: 12 }}
+            px={{ base: 8, md: 24 }}
             py={{ base: 2, md: 3 }}
             mx="auto" mt={6}
             boxShadow="md"
