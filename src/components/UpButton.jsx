@@ -12,8 +12,8 @@ export default function UpButton() {
             onClick={scrollToTop}
             position="fixed"
             boxSize="60px"
-            bottom="12"
-            right="16"
+            bottom="8"
+            right="8"
             colorScheme="teal"
             boxShadow="md"
             aria-label="トップへ戻る"
